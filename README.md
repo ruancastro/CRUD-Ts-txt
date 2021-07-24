@@ -31,4 +31,4 @@
 </ul>
 
 <h2>Exemplo de utilização: </h2>
-<p> [localhost:8000/criar-usuario?id=2&nome=ruan-castro](http://localhost:8000/criar-usuario?id=2&nome=ruan-castro)</p>
+<p> http://localhost:8000/criar-usuario?id=2&nome=ruan-castro </p>
